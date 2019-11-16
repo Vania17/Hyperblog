@@ -16,5 +16,7 @@ Anita Platzi es una persona que contribuye a este proyecto open source y nació 
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en su vida laboral
 >>>>>>> dc3782ec51c207fd221b14613e51bcb99b849245
